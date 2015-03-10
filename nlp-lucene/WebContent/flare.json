@@ -1,0 +1,28 @@
+{
+ "name": "Given sentense",
+ "children": [
+  {
+   "name": "Ngram",
+   "children": [
+    {
+     "name": "cluster",
+     "children": [
+      {"name": "AgglomerativeCluster", "size": 100}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Chunks",
+   "children": [
+    {"name": "DirtySprite", "size": 1000}
+   ]
+  },
+  {
+   "name": "Tokenizer",
+   "children": [
+    {"name": "FlareVis", "size": 1000}
+   ]
+  }
+ ]
+} 

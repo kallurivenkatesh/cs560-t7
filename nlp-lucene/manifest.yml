@@ -1,0 +1,8 @@
+applications:
+- disk_quota: 1024M
+  host: KDMLab7
+  name: KDMLab7
+  path: webStarterApp.war
+  domain: mybluemix.net
+  instances: 1
+  memory: 512M
